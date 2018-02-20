@@ -2,7 +2,7 @@
 
 ## Background
 
-In this assignment, I completed the 3 Python challenges below. Further description ans solutions for each challenge can be found in the respective challenge directory. 
+In this assignment, I completed the 3 Python challenges below. Further description and solutions for each challenge can be found in the respective challenge directory. 
 
 ## Option 1: PyBank
 [PyBank](\*\*PyBank\*\*/)
